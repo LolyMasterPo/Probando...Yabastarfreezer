@@ -37,7 +37,7 @@
             </div>
             <div class="p-16 max-sm:p-8 bg-pale-sky-600 text-center font-semibold rounded-lg">
                 <span class="text-yellow-500 text-[1.35rem] max-sm:text-[1rem]">4</span><br>
-                <span class="text-white text-[1.35rem] max-sm:text-[1rem]">Projects Completed</span>
+                <span class="text-white text-[1.35rem] max-sm:text-[1rem]">Projects Incompleted</span>
             </div>
           </section>
         </div>
